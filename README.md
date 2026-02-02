@@ -29,3 +29,4 @@ Finding Average
 3. Allow the user to remove unwanted items from the list.
 4. Display the updated grocery list.
    
+Conclusion - Learnt basics of lists in Python
